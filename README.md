@@ -1,7 +1,7 @@
 # UGAHacks3
 Jupyter Notebook from my 8-hour attempt at uncovering anomalies for the Aspirent Uber Data Analytics Challenge. This was my winning submission!
 
-The dataset gives you very little to work with in terms of features, but I've managed produce some key insights.
+The dataset gives you very little to work with in terms of features, but I managed produce some cool insights.
 
 More information on the project <a href="https://devpost.com/software/uber-rides-data-analysis" target="_blank">here</a>.
 
